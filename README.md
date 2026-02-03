@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on an HTML music player
 - 📫 How to reach me: rhysfrancisjohnston@hotmail.com
-- 😄 Pronouns: he/him
+
   
 
